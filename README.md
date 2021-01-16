@@ -1,7 +1,7 @@
 # 4pilaresAdvisor
 Um Indicador para auxiliar quem opera baseado nos 4 Pilares do Willy sem Stop Loss.
 
-Funcionalidades
+Funcionalidades:
 
 * Mostra os Lotes em uso no momento;
 * Mostra os Lotes Proporcionais ao Saldo Disponível. Lote de 0.01 para cada 100 dólares de saldo;
@@ -11,6 +11,8 @@ Funcionalidades
 * Mostra o Swap de Compra ou de Venda daquele Par no momento;
 * Mostra o Spread atual daquele par no momento;
 * Sugestão de AÇÃO baseado em Topo e Fundo histórico dos últimos 60 meses (5 anos) a partir da data atual automaticamente;
+  - A ação pode ser COMPRAR, VENDER ou AGUARDAR.
+  - A ação AGUARDAR é quando o Par fica abaixo ou acima da Mediana de 1000.
 * Utiliza cores para facilitar o entendimento. Exemplo:
   - Swap negativo é na cor vermelha.
   - Swap positivo é na cor azul.
@@ -18,3 +20,9 @@ Funcionalidades
   - Spread Acima de 30 pontos e abaixo de 50 é azul.
   - Spread Acima de 50 pontos é vermelho.
   - Ultrapassar os lotes disponíveis fica vermelho a informação.
+
+
+TO DO:
+
+* Usuario poder escolher quais dados apresentar
+* Usuário poder redimensionar o tamanho e escolher o local que ele vai ficar
