@@ -29,3 +29,8 @@ TO DO:
 * Usuário poder redimensionar o tamanho e escolher o local que ele vai ficar
 * Mostrar a diversificação dos pares operados no momento
 * Poder escolher o histórico se 5, 6, 7 ou 10 anos
+* Painel de personalização do usuário
+  - Escolher o canto para o Indicador ficar. Ex: canto esquerdo superior, canto esquerdo inferior, canto direito superior, canto direito inferior e centro inferior.
+  - Zoom no indicador para aumentar seu tamanho e fontes. Ex: 100%, 110%, 120%, 130%, 140% até 200%.
+  - Personalização de dados a serem apresentados.
+* Melhoria das Labels nas linhas de topo, mediana e fundo.
