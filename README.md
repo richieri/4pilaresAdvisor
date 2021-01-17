@@ -20,9 +20,12 @@ Funcionalidades:
   - Spread Acima de 30 pontos e abaixo de 50 é azul.
   - Spread Acima de 50 pontos é vermelho.
   - Ultrapassar os lotes disponíveis fica vermelho a informação.
+* Linhas de Topo e Fundo Histórico agora estão desenhadas no gráfico.
 
 
 TO DO:
 
 * Usuario poder escolher quais dados apresentar
 * Usuário poder redimensionar o tamanho e escolher o local que ele vai ficar
+* Mostrar a diversificação dos pares operados no momento
+* Poder escolher o histórico se 5, 6, 7 ou 10 anos
