@@ -21,16 +21,17 @@ Funcionalidades:
   - Spread Acima de 50 pontos é vermelho.
   - Ultrapassar os lotes disponíveis fica vermelho a informação.
 * Linhas de Topo e Fundo Histórico agora estão desenhadas no gráfico.
+* Poder escolher o histórico se 3, 5, 6, 8 ou 10 anos.
+* Usuário poder redimensionar o tamanho do Display.
 
 
 TO DO:
 
 * Painel de personalização do usuário
   - Escolher o canto para o Indicador ficar. Ex: canto esquerdo superior, canto esquerdo inferior, canto direito superior, canto direito inferior e centro inferior.
-  - Zoom no indicador para aumentar seu tamanho e fontes. Ex: 100%, 110%, 120%, 130%, 140% até 200%.
   - Personalização de dados a serem apresentados.
-* Poder escolher o histórico se 5, 6, 7 ou 10 anos
+
 * Sinal sonoro no cruzamento das médias móveis 6 e 21.
-* Usuário poder redimensionar o tamanho e escolher o local que ele vai ficar
-* Mostrar a diversificação dos pares operados no momento
+* Mostrar Todos Ativos que são pra VENDA e todos que são pra COMPRA.
+* Mostrar a diversificação dos pares operados no momento.
 * Melhoria das Labels nas linhas de topo, mediana e fundo.
