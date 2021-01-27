@@ -33,5 +33,7 @@ TO DO:
 
 * Sinal sonoro no cruzamento das médias móveis 6 e 21.
 * Mostrar Todos Ativos que são pra VENDA e todos que são pra COMPRA.
+  - Opção de clicar no ativo e ir diretamente pro gráfico dele.
 * Mostrar a diversificação dos pares operados no momento.
 * Melhoria das Labels nas linhas de topo, mediana e fundo.
+* Resolver problema de quem utiliza escala maior nas fontes do Windows. Por ex: 125%
