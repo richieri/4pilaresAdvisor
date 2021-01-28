@@ -11,7 +11,7 @@ Funcionalidades:
 * Mostra o Swap de Compra ou de Venda daquele Par no momento;
 * Mostra o Spread atual daquele par no momento;
 * Sugestão de AÇÃO baseado em Topo e Fundo histórico dos últimos 60 meses (5 anos) a partir da data atual automaticamente;
-  - A ação pode ser COMPRAR, VENDER ou AGUARDAR.
+  - A ação pode ser COMPRAR, VENDER ou NEUTRO
   - A ação AGUARDAR é quando o Par fica abaixo ou acima da Mediana de 1000.
 * Utiliza cores para facilitar o entendimento. Exemplo:
   - Swap negativo é na cor vermelha.
@@ -21,14 +21,19 @@ Funcionalidades:
   - Spread Acima de 50 pontos é vermelho.
   - Ultrapassar os lotes disponíveis fica vermelho a informação.
 * Linhas de Topo e Fundo Histórico agora estão desenhadas no gráfico.
-* Poder escolher o histórico se 3, 5, 6, 8 ou 10 anos.
-* Usuário poder redimensionar o tamanho do Display.
+
+* Configurações:
+  - Poder escolher o histórico se 3, 5, 6, 8 ou 10 anos.
+  - Escolher quantos pontos distante da Mediana o usuário quer receber sugestão.
+* Personalização Visual:
+  - Usuário poder redimensionar o tamanho do Display.
+  - Escolher o canto para o Indicador ficar, se canto esquerdo superior ou canto direito superior.
 
 
 TO DO:
 
+* Quantos pontos aquele PAR movimenta em média por dia.
 * Painel de personalização do usuário
-  - Escolher o canto para o Indicador ficar. Ex: canto esquerdo superior, canto esquerdo inferior, canto direito superior, canto direito inferior e centro inferior.
   - Personalização de dados a serem apresentados.
 
 * Sinal sonoro no cruzamento das médias móveis 6 e 21.
