@@ -22,12 +22,17 @@ Funcionalidades:
   - Ultrapassar os lotes disponíveis fica vermelho a informação.
 * Linhas de Topo e Fundo Histórico agora estão desenhadas no gráfico.
 
+*Novidades:
+
 * Configurações:
   - Poder escolher o histórico se 3, 5, 6, 8 ou 10 anos.
   - Escolher quantos pontos distante da Mediana o usuário quer receber sugestão.
 * Personalização Visual:
   - Usuário poder redimensionar o tamanho do Display.
   - Escolher o canto para o Indicador ficar, se canto esquerdo superior ou canto direito superior.
+* Movimentação daquele Par no dia de HOJE.
+
+  
 
 
 TO DO:
