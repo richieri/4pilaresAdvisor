@@ -31,19 +31,22 @@ Funcionalidades:
   - Usuário poder redimensionar o tamanho do Display.
   - Escolher o canto para o Indicador ficar, se canto esquerdo superior ou canto direito superior.
 * Movimentação daquele Par no dia de HOJE.
-
+* Alerta de Lucro. O usuário pode escolher receber alerta quando suas ordens tiverem positivas a partir de um valor, por ex. 5 dólares. E pode definir também qual o intervalo de tempo será notificado.
+* Botão de Esconder o Indicador.
   
 
 
 TO DO:
 
+* Sinal sonoro no cruzamento das médias móveis 6 e 21.
+* Mostrar a diversificação dos pares operados no momento.
+* Limpar o gráfico ao retirar o indicador.
 * Quantos pontos aquele PAR movimenta em média por dia.
 * Painel de personalização do usuário
   - Personalização de dados a serem apresentados.
 
-* Sinal sonoro no cruzamento das médias móveis 6 e 21.
 * Mostrar Todos Ativos que são pra VENDA e todos que são pra COMPRA.
   - Opção de clicar no ativo e ir diretamente pro gráfico dele.
-* Mostrar a diversificação dos pares operados no momento.
+
 * Melhoria das Labels nas linhas de topo, mediana e fundo.
 * Resolver problema de quem utiliza escala maior nas fontes do Windows. Por ex: 125%
