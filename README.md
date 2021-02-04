@@ -33,16 +33,17 @@ Funcionalidades:
 * Movimentação daquele Par no dia de HOJE.
 * Alerta de Lucro. O usuário pode escolher receber alerta quando suas ordens tiverem positivas a partir de um valor, por ex. 5 dólares. E pode definir também qual o intervalo de tempo será notificado.
 * Botão de Esconder o Indicador.
+* Mostra o Nivel de Margem no Painel.
+* Mostrar a diversificação dos pares operados no momento.
   
 
 
 TO DO:
 
-* Mostrar o Nivel de Margem no Painel.
+
 * Sinal sonoro no cruzamento das médias móveis 6 e 21.
-* Mostrar a diversificação dos pares operados no momento.
-* Limpar o gráfico ao retirar o indicador.
 * Quantos pontos aquele PAR movimenta em média por dia.
+* To do Volatilidade media do par por dia.
 * Painel de personalização do usuário
   - Personalização de dados a serem apresentados.
 
