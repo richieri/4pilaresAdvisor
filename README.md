@@ -38,6 +38,7 @@ Funcionalidades:
 
 TO DO:
 
+* Mostrar o Nivel de Margem no Painel.
 * Sinal sonoro no cruzamento das médias móveis 6 e 21.
 * Mostrar a diversificação dos pares operados no momento.
 * Limpar o gráfico ao retirar o indicador.
