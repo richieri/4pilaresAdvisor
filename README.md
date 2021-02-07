@@ -21,6 +21,8 @@ Funcionalidades:
   - Spread Acima de 50 pontos é vermelho.
   - Ultrapassar os lotes disponíveis fica vermelho a informação.
 * Linhas de Topo e Fundo Histórico agora estão desenhadas no gráfico.
+* Aviso de Cruzamento das Linhas Moveis
+* Painel Geral de Pares com Funcionalidades como Ativos, Distancia da Mediana, Movimentação do Par no dia e Movimentação diária média.
 
 *Novidades:
 
