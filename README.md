@@ -37,20 +37,28 @@ Funcionalidades:
 * Botão de Esconder o Indicador.
 * Mostra o Nivel de Margem no Painel.
 * Mostrar a diversificação dos pares operados no momento.
-  
+* Quantos pontos aquele PAR movimenta em média por dia.
+* Volatilidade media do par por dia.
+* Painel de personalização do usuário
+  - Personalização de dados a serem apresentados.
+* Mostra Todos Ativos que são pra VENDA e todos que são pra COMPRA.
+  - Opção de clicar no ativo e ir diretamente pro gráfico dele.  
 
 
 TO DO:
 
 
 * Sinal sonoro no cruzamento das médias móveis 6 e 21.
-* Quantos pontos aquele PAR movimenta em média por dia.
-* To do Volatilidade media do par por dia.
-* Painel de personalização do usuário
-  - Personalização de dados a serem apresentados.
-
-* Mostrar Todos Ativos que são pra VENDA e todos que são pra COMPRA.
-  - Opção de clicar no ativo e ir diretamente pro gráfico dele.
-
 * Melhoria das Labels nas linhas de topo, mediana e fundo.
 * Resolver problema de quem utiliza escala maior nas fontes do Windows. Por ex: 125%
+
+
+SOBRE O PAINEL:
+
+- AÇÃO é a sugestão de COMPRA, VENDA ou NEUTRO daquele par em relação a uma certa distância da mediana(em pontos), por padrão 1500 (pode alterar a quantidade de pontos para esse calculo).
+
+- MEDIANA é a distancia (em pontos) que aquele par está da mediana (pode alterar a quantidade de pontos para esse calculo)
+
+- DIÁRIA é a Movimentação Média daquele par (pode alterar a quantidade de dias para esse calculo)
+
+- HOJE é a movimentação em pontos daquele par fez no dia ATUAL... essa informação vem acompanhada de uma porcentagem do lado (%)... essa porcentagem é o quanto aquele par já "andou" em pontos em relação a Média DIARIA.... essa informação é pra saber se já chegou em um possível limite diária baseado nos ultimos dias...
