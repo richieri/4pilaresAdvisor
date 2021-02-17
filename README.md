@@ -54,7 +54,7 @@ TO DO:
 * Criar Aba pra mais informações no Display
 * Lucro do Ativo operado no dia
 * DrawDown da conta
-* Icone de Notificacao Ligada ao lado do Display
+* Icone de Notificacao de Lucro Ligada ao lado do Display
 * Valor de custo pra entrar na operação tanto preço quanto nivel de margem
 * Multiplos indicadores em conjunto em um painel
 
