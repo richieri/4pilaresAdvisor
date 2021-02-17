@@ -51,6 +51,12 @@ TO DO:
 * Sinal sonoro no cruzamento das médias móveis 6 e 21.
 * Melhoria das Labels nas linhas de topo, mediana e fundo.
 * Resolver problema de quem utiliza escala maior nas fontes do Windows. Por ex: 125%
+* Criar Aba pra mais informações no Display
+* Lucro do Ativo operado no dia
+* DrawDown da conta
+* Icone de Notificacao Ligada
+* Valor de custo pra entrar na operação tanto preço quanto nivel de margem
+* Multiplos indicadores em conjunto em um painel
 
 
 SOBRE O PAINEL:
