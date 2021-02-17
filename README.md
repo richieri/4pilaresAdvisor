@@ -47,10 +47,9 @@ Funcionalidades:
 
 TO DO:
 
-
 * Sinal sonoro no cruzamento das médias móveis 6 e 21.
 * Melhoria das Labels nas linhas de topo, mediana e fundo.
-* Resolver problema de quem utiliza escala maior nas fontes do Windows. Por ex: 125%
+* Resolver problema de monitores com DPI maior nas fontes encavaladas.
 * Criar Aba pra mais informações no Display
 * Lucro do Ativo operado no dia
 * DrawDown da conta
