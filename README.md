@@ -59,6 +59,7 @@ TO DO:
 * Valor de custo pra entrar na operação quanto ao nivel de margem
 * Multiplos indicadores em conjunto em um painel
 * Painel em % de valorização ou desvalorização ao longo do tempo do Ativo
+* (Nao sei se é possível)Alertar caso um ativo tenha uma alteração brusca de pontos pontos de uma só vez para pegar um pouco e surfar no movimento
 
 
 SOBRE O PAINEL:
