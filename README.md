@@ -41,8 +41,9 @@ Funcionalidades:
 * Volatilidade media do par por dia.
 * Painel de personalização do usuário
   - Personalização de dados a serem apresentados.
-* Mostra Todos Ativos que são pra VENDA e todos que são pra COMPRA.
-  - Opção de clicar no ativo e ir diretamente pro gráfico dele.  
+* Painel dos 28 pares principais que mostra os Ativos que são pra VENDA e todos que são pra COMPRA e informações como PREÇO, PONTOS DE DISTANCIA ATÉ A MEDIANA, MOVIMENTAÇÃO MÉDIA DIÁRIA, PONTOS QUE JÁ "ANDOU" NO DIA e EM PORCENTAGEM QUANTO JÁ "ANDOU".
+  - Opção de clicar no ativo e ir diretamente pro gráfico dele.
+* Painel com FORÇA DA MOEDA em tempo real. E sua força individual frente aos demais pares. Muito útil para ser usado juntamente com a Movimentação Média do par, junto com a sua movimentação no momento.
 
 
 TO DO:
@@ -54,16 +55,21 @@ TO DO:
 * Lucro do Ativo operado no dia
 * DrawDown da conta
 * Icone de Notificacao de Lucro Ligada ao lado do Display
-* Valor de custo pra entrar na operação tanto preço quanto nivel de margem
+* Quanto o ativo paga por pontos
+* Valor de custo pra entrar na operação quanto ao nivel de margem
 * Multiplos indicadores em conjunto em um painel
+* Painel em % de valorização ou desvalorização ao longo do tempo do Ativo
 
 
 SOBRE O PAINEL:
 
+
+- PREÇO é o valor do ativo no momento.
+
 - AÇÃO é a sugestão de COMPRA, VENDA ou NEUTRO daquele par em relação a uma certa distância da mediana(em pontos), por padrão 1500 (pode alterar a quantidade de pontos para esse calculo).
 
-- MEDIANA é a distancia (em pontos) que aquele par está da mediana (pode alterar a quantidade de pontos para esse calculo)
+- P.MEDIANA é a distancia (em pontos) que aquele par está da mediana (pode alterar a quantidade de pontos para esse calculo)
 
-- DIÁRIA é a Movimentação Média daquele par (pode alterar a quantidade de dias para esse calculo)
+- P.DIA é a Movimentação Média daquele par (pode alterar a quantidade de dias para esse calculo)
 
-- HOJE é a movimentação em pontos daquele par fez no dia ATUAL... essa informação vem acompanhada de uma porcentagem do lado (%)... essa porcentagem é o quanto aquele par já "andou" em pontos em relação a Média DIARIA.... essa informação é pra saber se já chegou em um possível limite diária baseado nos ultimos dias...
+- P.HOJE é a movimentação em pontos daquele par fez no dia ATUAL... essa informação vem acompanhada de uma porcentagem do lado (%)... essa porcentagem é o quanto aquele par já "andou" em pontos em relação a Média DIARIA.... essa informação é pra saber se já chegou em um possível limite diária baseado nos ultimos dias...
